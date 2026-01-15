@@ -21,13 +21,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
   <img width="12" />
+  <img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" height="30" alt="Windows Server logo"  />
+  <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJh84HW55Ws0zAD3H8iY6Ejiftplm_BRvcQ&s" height="30" alt="Mikrotik logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" height="30" alt="Zabbix logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" height="30" alt="Windows Server logo"  />
   <img width="12" />
 </div>
 
