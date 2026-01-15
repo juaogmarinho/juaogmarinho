@@ -38,6 +38,6 @@
 
 ###
 
-<img align="left" height="900" src="https://media1.tenor.com/m/CL671zfz4DEAAAAd/demon-slayer-kimetsu-no-yaiba.gif"  />
+<p align="left"></p>
 
 ###
