@@ -1,16 +1,8 @@
-###
-
-<br clear="both">
-
 <h2 align="left">Hi! I'm Juão Marinho 🤓</h2>
 
-<img align="right" height="325" width="250" src="https://media.tenor.com/Am2qE8OwtQcAAAAj/inosuke-hashibira-bobxcx.gif"  />
+<img align="right" height="280" width="200" src="https://media.tenor.com/Am2qE8OwtQcAAAAj/inosuke-hashibira-bobxcx.gif"  />
 
-###
-
-<p align="left">Profissional de Infraestrutura de TI com mais de 5 anos de experiência em ambientes corporativos e setor público, atuando em Redes, Servidores, Segurança, Monitoramento e Suporte N2/N3. Forte vivência em Active Directory, firewalls (pfSense/MikroTik), VPNs, monitoramento com Zabbix, infraestrutura cabeada e wireless, além de participação ativa em projetos de expansão, padronização e melhoria de ambientes de TI.</p>
-
-###
+<p align="left">Profissional de Infraestrutura de TI com mais de 5 anos de experiência em ambientes corporativos e setor público, atuando com Redes, Servidores, Segurança, Active Directory, firewalls (pfSense/MikroTik), VPNs, Zabbix e Suporte N2/N3.</p>
 
 <div align="left">
   <h3>Linguagens e Ferramentas:</h3>
@@ -32,8 +24,6 @@
   <img width="12" />
 </div>
 
-###
-
 <div align="left">
     <h3>Redes Sociais:</h3>
   <a href="http://instagram.com/juao.marinho" target="_blank">
@@ -47,8 +37,12 @@
   </a>
 </div>
 
+<hr>
+
 ###
 
 <img align="center" height="1150" width="1150" src="https://media1.tenor.com/m/0m0s-B9pCjUAAAAd/inosuke-kimetsu-no-yaiba.gif"  />
 
 ###
+
+<hr>
