@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Sou um(a) desenvolvedor(a) apaixonado(a) por desafios criativos e soluções inovadoras. Meu objetivo é levar a programação a um novo patamar, misturando arte e código para criar experiências únicas. ✨</p>
+<p align="left">Profissional de Infraestrutura de TI com mais de 5 anos de experiência em ambientes corporativos e setor público, atuando em Redes, Servidores, Segurança, Monitoramento e Suporte N2/N3. Forte vivência em Active Directory, firewalls (pfSense/MikroTik), VPNs, monitoramento com Zabbix, infraestrutura cabeada e wireless, além de participação ativa em projetos de expansão, padronização e melhoria de ambientes de TI.</p>
 
 ###
 
@@ -30,7 +30,9 @@
   <a href="http://instagram.com/juao.marinho" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/juaomarinho/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="juaomarinho" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
