@@ -1,10 +1,15 @@
+<!-- Título principal -->
 <h2 align="left">Hi! I'm Juão Marinho 🤓</h2>
 
+<!-- GIF - Inosuke -->
 <img align="right" height="280" width="200" src="https://media.tenor.com/Am2qE8OwtQcAAAAj/inosuke-hashibira-bobxcx.gif"  />
 
+<!-- Resumo Profissional -->
 <p align="left">Profissional de Infraestrutura de TI com mais de 5 anos de experiência em ambientes corporativos e setor público, atuando com Redes, Servidores, Segurança, Active Directory, firewalls (pfSense/MikroTik), VPNs, Zabbix e Suporte N2/N3.</p>
 
 <div align="left">
+
+  <!-- Seção linguagens / ferramentas (Ícones) -->
   <h3>Linguagens e Ferramentas:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
   <img width="12" />
@@ -23,6 +28,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" height="30" alt="Zabbix logo"  />
   <img width="12" />
 
+<!-- Seção Currículo / Portifólio -->
   <h3>Contratando? Dê uma olhadinha nos meu CV:</h3>
   </a>
   <a href="https://drive.google.com/file/d/1_3Wv0kuf3NKekylgFsCxOTSJJAlGlbF1/view?usp=drive_link" target="_blank">
@@ -36,6 +42,7 @@
 
 ###
 
+<!-- Banner GIF - Inosuke -->
 <img align="center" height="1150" width="1150" src="https://media1.tenor.com/m/0m0s-B9pCjUAAAAd/inosuke-kimetsu-no-yaiba.gif"  />
 
 ###
