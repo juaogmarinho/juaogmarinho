@@ -22,19 +22,14 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" height="30" alt="Zabbix logo"  />
   <img width="12" />
-</div>
 
-<div align="left">
-    <h3>Redes Sociais:</h3>
-  <a href="http://instagram.com/juao.marinho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <h3>Contratando? Dê uma olhadinha nos meu CV:</h3>
+  </a>
+  <a href="https://drive.google.com/file/d/1_3Wv0kuf3NKekylgFsCxOTSJJAlGlbF1/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.linkedin.com/in/juaomarinho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="juaomarinho" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
 </div>
 
 <hr>
