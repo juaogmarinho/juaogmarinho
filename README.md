@@ -1,10 +1,10 @@
-<h2 align="left">Hi! I'm Juão Marinho 🤓</h2>
-
 ###
 
 <br clear="both">
 
-<img align="right" height="225" src="https://media.tenor.com/Am2qE8OwtQcAAAAj/inosuke-hashibira-bobxcx.gif"  />
+<h2 align="left">Hi! I'm Juão Marinho 🤓</h2>
+
+<img align="right" height="325" width="250" src="https://media.tenor.com/Am2qE8OwtQcAAAAj/inosuke-hashibira-bobxcx.gif"  />
 
 ###
 
@@ -13,6 +13,7 @@
 ###
 
 <div align="left">
+  <h3>Linguagens e Ferramentas:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
@@ -34,6 +35,7 @@
 ###
 
 <div align="left">
+    <h3>Redes Sociais:</h3>
   <a href="http://instagram.com/juao.marinho" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -47,6 +49,6 @@
 
 ###
 
-<p align="left"></p>
+<img align="center" height="1150" width="1150" src="https://media1.tenor.com/m/0m0s-B9pCjUAAAAd/inosuke-kimetsu-no-yaiba.gif"  />
 
 ###
