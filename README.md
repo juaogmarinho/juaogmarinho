@@ -122,7 +122,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 - Hardware and Upgrade Support (Cisco)
 
 <!-- Seção Currículo / Portifólio -->
-  <h3>Contratando? Dê uma olhadinha nos meu CV:</h3>
+  <h3>Hiring? Take a look at my resume:</h3>
   </a>
   <a href="https://drive.google.com/file/d/1w44TFLWvrJ7XssyBQC28V5iZ_isj-YnQ/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="linkedin logo"  />
