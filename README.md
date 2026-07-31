@@ -59,8 +59,27 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
   ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
   ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+
+  ## 🚀 Principais Projetos
   
-  
+📊 Monitoramento de Infraestrutura com Zabbix e Grafana
+<br>🔗 Repositório: https://github.com/juaogmarinho/Monitoramento-Infraestrutura-Interno---V2
+<ul>
+  <li>Zabbix</li>
+  <li>Grafana</li>
+  <li>Linux</li>
+  <li>SNMP</li>
+</ul>
+
+🔧 Automação PowerShell para Administração Windows
+<br>
+☁️ Estudos de Azure e Cloud
+<br>
+🌐 Infraestrutura de Redes com MikroTik e pfSense
+<br>
+📖 Documentações e Laboratórios de Active Directory
+<br>
 <div align="left">
 <!-- Seção Currículo / Portifólio -->
   <h3>Contratando? Dê uma olhadinha nos meu CV:</h3>
