@@ -93,6 +93,34 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 📖 Documentações e Laboratórios de Active Directory
 <br>
 <div align="left">
+
+## 🎓 Certifications & Training
+
+### ☁️ Cloud & Infrastructure
+- Cloud Fundamentals, Administration and Solution Architect (FIAP)
+- Infrastructure for Cloud Computing and Big Data (FIAP)
+- Docker and Containerization Basics (Kyndryl)
+- Working with Docker Images (Kyndryl)
+
+### 🖥️ Windows Infrastructure
+- Windows Server 2022 (Kyndryl)
+
+### 📊 Monitoring & Observability
+- Monitoring with Prometheus, Grafana and Alertmanager (Alura)
+- Zabbix Monitoring and Dashboard Development
+
+### 🌐 Networking
+- MikroTik Fundamentals
+- Network Technician Career Path (Cisco)
+- Network Support and Security (Cisco)
+
+### 🛡️ Cybersecurity
+- Cybersecurity Fundamentals (FIAP)
+
+### 🔧 IT Support & Hardware
+- IT Support Basics (Cisco)
+- Hardware and Upgrade Support (Cisco)
+
 <!-- Seção Currículo / Portifólio -->
   <h3>Contratando? Dê uma olhadinha nos meu CV:</h3>
   </a>
