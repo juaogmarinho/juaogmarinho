@@ -61,15 +61,27 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
-  ## 🚀 Principais Projetos
+  ## 🚀 Main projects
   
-📊 Monitoramento de Infraestrutura com Zabbix e Grafana
-<br>🔗 Repositório: https://github.com/juaogmarinho/Monitoramento-Infraestrutura-Interno---V2
+📊 Infrastructure Interal Monitoring - Printers and Internal Servers
+<br>🔗 Repository: https://github.com/juaogmarinho/Monitoramento-Infraestrutura-Interno---V2
+<br>**Technologies**
 <ul>
   <li>Zabbix</li>
   <li>Grafana</li>
   <li>Linux</li>
   <li>SNMP</li>
+</ul>
+
+🔧 Maintenance Tool - IT Support Toolkit
+<br>Enterprise-focused automation toolkit developed to streamline daily IT support operations. Includes network troubleshooting, software deployment, printer installation, drive mapping, Windows Defender automation, and administrative tools for N2/N3 support teams.
+<br>🔗 Repository: [https://github.com/juaogmarinho/Monitoramento-Infraestrutura-Interno---V2](https://github.com/juaogmarinho/it-support-automation-toolkit)
+<br>**Technologies**
+<ul>
+  <li>PowerShell</li>
+  <li>Batch</li>
+  <li>Windows Server</li>
+  <li>ActiveDirectory</li>
 </ul>
 
 🔧 Automação PowerShell para Administração Windows
