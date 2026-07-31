@@ -96,7 +96,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 ###
 
 <!-- Banner GIF - Inosuke -->
-<img align="center" height="550" width="1050" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oBO4j3EM_nfHHkxrxb5kmUavUPA66jVuTkFr5uAOOg&s=10"  />
+<img align="center" height="550" width="1050" src="https://media1.tenor.com/m/iLVXMqtoKLcAAAAd/gachiakuta-enjin.gif"  />
 
 ###
 
