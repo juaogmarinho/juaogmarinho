@@ -75,7 +75,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 
 🔧 Maintenance Tool - IT Support Toolkit
 <br>Enterprise-focused automation toolkit developed to streamline daily IT support operations. Includes network troubleshooting, software deployment, printer installation, drive mapping, Windows Defender automation, and administrative tools for N2/N3 support teams.
-<br>🔗 Repository: [https://github.com/juaogmarinho/Monitoramento-Infraestrutura-Interno---V2](https://github.com/juaogmarinho/it-support-automation-toolkit)
+<br>🔗 Repository: https://github.com/juaogmarinho/it-support-automation-toolkit
 <br>**Technologies**
 <ul>
   <li>PowerShell</li>
