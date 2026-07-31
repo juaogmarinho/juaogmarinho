@@ -2,7 +2,7 @@
 <h2 align="left">Hi! I'm Juão Marinho 🤓</h2>
 
 <!-- GIF - Inosuke -->
-<img align="right" height="280" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyY201NWRydTNjbjl5dzdlajJlZHM4d2lhcGdvY3kzbDc3ODA3OWlqeCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aiz6dRiNRcrmK2Z5Xz/giphy.gif" />
+<img align="right" height="240" width="240" src="https://media.tenor.com/qwdUrLP0VxIAAAAM/inosuke-welcome.gif" />
 
 <!-- Resumo Profissional -->
 <p align="left">Analista de Infraestrutura e Redes com mais de 5 anos de experiência em ambientes corporativos e setor público, atuando em sustentação, administração e suporte de infraestrutura crítica de TI.
@@ -96,7 +96,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 ###
 
 <!-- Banner GIF - Inosuke -->
-<img align="center" height="550" width="1050" src="https://media1.tenor.com/m/0m0s-B9pCjUAAAAd/inosuke-kimetsu-no-yaiba.gif"  />
+<img align="center" height="550" width="1050" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1oBO4j3EM_nfHHkxrxb5kmUavUPA66jVuTkFr5uAOOg&s=10"  />
 
 ###
 
