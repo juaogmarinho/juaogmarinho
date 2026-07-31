@@ -20,10 +20,9 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 <li>Windows Server</li>
 <li>Linux</li>
 <li>Active Directory</li>
-<li>DNS/DHCP/GPO</li>
+<li>Azure</li>
 <li>Redes TCP/IP</li>
 <li>PfSense e MikroTik</li>
-<li>VPN</li>
 <li>Zabbix e Grafana</li>
 <li>Virtualização</li>
 <li>Suporte N2/N3</li>
@@ -31,25 +30,38 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 </ul>
 <div align="left">
 
+  <ul>
+  <h3>🚀 Atualmente estudando:</h3>
+  <li>Terraform</li>
+  <li>PowerShell Automation</li>
+  <li>Ansible</li>
+  <li>Docker</li>
+  <li>N8N</li>
+  </ul>
+
   <!-- Seção linguagens / ferramentas (Ícones) -->
   <h3>Linguagens e Ferramentas:</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
+  <img src="https://www.edunao.com/app/uploads/2022/08/Active-directory-federation-services-microsoft-off-5b1e5b080fff82.7771912715287160400655.png" height="30" alt="ActiveDirectory logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="30" alt="PowerShell logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" height="30" alt="Windows Server logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdJh84HW55Ws0zAD3H8iY6Ejiftplm_BRvcQ&s" height="30" alt="Mikrotik logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="30" alt="Hyper-V logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" height="30" alt="Zabbix logo"  />
   <img width="12" />
 
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
+  ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
+  ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+  
+  
+<div align="left">
 <!-- Seção Currículo / Portifólio -->
   <h3>Contratando? Dê uma olhadinha nos meu CV:</h3>
   </a>
