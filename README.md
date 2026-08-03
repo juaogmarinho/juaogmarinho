@@ -64,7 +64,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
   ## 🚀 Main projects
   
 📊 Infrastructure Interal Monitoring - Printers and Internal Servers
-<br>🔗 Repository: https://github.com/juaogmarinho/Monitoramento-Infraestrutura-Interno---V2
+<br>🔗 Repository: https://github.com/juaogmarinho/InfrastructureInteralMonitoring
 <br>**Technologies**
 <ul>
   <li>Zabbix</li>
