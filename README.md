@@ -84,6 +84,16 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
   <li>ActiveDirectory</li>
 </ul>
 
+🔧 Infraestructure as a Code Labs - Terraform
+<br>🔗 Repository: https://github.com/juaogmarinho/Iac-Terraform-Studies
+<br>**Technologies**
+<ul>
+  <li>Terraform</li>
+  <li>AWS</li>
+  <li>Azure</li>
+  <li>VS Code</li>
+</ul>
+
 🔧 Automação PowerShell para Administração Windows
 <br>
 ☁️ Estudos de Azure e Cloud
