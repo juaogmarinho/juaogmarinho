@@ -41,24 +41,15 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 
   <!-- Seção linguagens / ferramentas (Ícones) -->
   <h3>Linguagens e Ferramentas:</h3>
+
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zabbix,grafana,azure,linux,windows,flutter&perline=6)
   <img src="https://www.edunao.com/app/uploads/2022/08/Active-directory-federation-services-microsoft-off-5b1e5b080fff82.7771912715287160400655.png" height="30" alt="ActiveDirectory logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" height="30" alt="PowerShell logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354069/microsoft-windows.svg" height="30" alt="Windows Server logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="30" alt="Hyper-V logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg" height="30" alt="Zabbix logo"  />
-  <img width="12" />
 
-
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
   ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-  ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-  ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 
   ## 🚀 Main projects
