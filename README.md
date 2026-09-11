@@ -119,6 +119,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
 - Cybersecurity Fundamentals (FIAP)
 
 ### 🔧 IT Support & Hardware
+- DWS - Service Desk Professional (Kyndryl)
 - IT Support Professional (Google)
 - IT Support Basics (Cisco)
 - Hardware and Upgrade Support (Cisco)
