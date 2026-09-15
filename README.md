@@ -42,7 +42,7 @@ Possuo perfil analítico, forte capacidade de resolução de problemas e foco em
   <!-- Seção linguagens / ferramentas (Ícones) -->
   <h3>Linguagens e Ferramentas:</h3>
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zabbix,grafana,azure,linux,windows,flutter&perline=6)
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zabbix,grafana,azure,linux,windows&perline=5)
   <img src="https://www.edunao.com/app/uploads/2022/08/Active-directory-federation-services-microsoft-off-5b1e5b080fff82.7771912715287160400655.png" height="30" alt="ActiveDirectory logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="30" alt="Hyper-V logo"  />
