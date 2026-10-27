@@ -1,146 +1,133 @@
-<!-- Título principal -->
-<h2 align="left">Hi! I'm Juão Marinho 🤓</h2>
+# Olá, eu sou o João Marinho 👋
 
-<!-- GIF - Inosuke -->
-<img align="right" height="240" width="240" src="https://media.tenor.com/qwdUrLP0VxIAAAAM/inosuke-welcome.gif" />
+**Analista de Infraestrutura e Redes | Windows Server • Active Directory • Redes • Monitoramento**
 
-<!-- Resumo Profissional -->
-<p align="left">Analista de Infraestrutura e Redes com mais de 5 anos de experiência em ambientes corporativos e setor público, atuando em sustentação, administração e suporte de infraestrutura crítica de TI.
+📍 Sobradinho, BA
 
-Experiência sólida em Windows Server, Linux, Active Directory, DNS, DHCP, GPO, VPN, firewalls pfSense e MikroTik, redes cabeadas/wireless, virtualização e monitoramento com Zabbix e Grafana.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juaomarinho/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juaog.marinho@hotmail.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1w44TFLWvrJ7XssyBQC28V5iZ_isj-YnQ/view?usp=drive_link)
 
-Atuação focada em troubleshooting avançado, análise de causa-raiz, administração de servidores, suporte N2/N3, hardening, disponibilidade de ambientes e melhoria contínua da infraestrutura.
+---
 
-Atualmente atuo na Kyndryl como Analista de Suporte Sênior, participando da sustentação de ambientes corporativos críticos, resolução de incidentes complexos e suporte técnico especializado.
+## Sobre mim
 
-Possuo perfil analítico, forte capacidade de resolução de problemas e foco em estabilidade, segurança e performance dos ambientes de TI.
+Analista de Suporte Sênior na **Kyndryl**, com mais de 6 anos de experiência em infraestrutura, redes e suporte, passando por setor público e empresas de tecnologia.
 
-<ul>
-📌 Competências:
-<li>Windows Server</li>
-<li>Linux</li>
-<li>Active Directory</li>
-<li>Azure</li>
-<li>Redes TCP/IP</li>
-<li>PfSense e MikroTik</li>
-<li>Zabbix e Grafana</li>
-<li>Virtualização</li>
-<li>Suporte N2/N3</li>
-<li>Infraestrutura e Redes</p></li>
-</ul>
-<div align="left">
+Já atuei desde o suporte técnico até a supervisão de TI: administrei servidores Windows, firewalls pfSense e MikroTik, VPNs e Active Directory, coordenei equipes de suporte e entreguei projetos de conectividade e monitoramento. Hoje trabalho com suporte N2/N3, resolução de incidentes complexos, projetos de migração e melhoria de infraestrutura, e estou evoluindo para automação e Infraestrutura como Código.
 
-  <ul>
-  <h3>🚀 Atualmente estudando:</h3>
-  <li>Terraform</li>
-  <li>PowerShell Automation</li>
-  <li>Ansible</li>
-  <li>Docker</li>
-  <li>N8N</li>
-  </ul>
+- 🌐 Migração de enlaces de rádio para fibra óptica em unidades públicas, com mais estabilidade e desempenho
+- 📦 Inventário e padronização de mais de 100 equipamentos e softwares corporativos
+- 📊 Monitoramento proativo de impressoras com Zabbix, Grafana e alertas no Microsoft Teams
+- 🎓 Cursando Bacharelado em Ciência da Computação
 
-  <!-- Seção linguagens / ferramentas (Ícones) -->
-  <h3>Linguagens e Ferramentas:</h3>
+---
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zabbix,grafana,azure,linux,windows&perline=5)
-  <img src="https://www.edunao.com/app/uploads/2022/08/Active-directory-federation-services-microsoft-off-5b1e5b080fff82.7771912715287160400655.png" height="30" alt="ActiveDirectory logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hyper-V_Logo.png" height="30" alt="Hyper-V logo"  />
-  <img width="12" />
+## Stack
 
-  ![Mikrotik](https://img.shields.io/badge/mikrotik-%23293239.svg?style=for-the-badge&logo=mikrotik&logoColor=white)
-  ![GitBook](https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=zabbix,grafana,linux,windows,powershell,docker&perline=6)
 
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-  ## 🚀 Main projects
-  
-📊 Infrastructure Interal Monitoring - Printers and Internal Servers
-<br>🔗 Repository: https://github.com/juaogmarinho/InfrastructureInteralMonitoring
-<br>**Technologies**
-<ul>
-  <li>Zabbix</li>
-  <li>Grafana</li>
-  <li>Linux</li>
-  <li>SNMP</li>
-</ul>
+**Competências:** Active Directory · Windows Server · Linux · Redes (TCP/IP, DNS, DHCP, VPN, Switching, Wireless) · MikroTik · pfSense · Zabbix · Grafana · ITIL · Troubleshooting e resolução de incidentes
 
-🔧 Maintenance Tool - IT Support Toolkit
-<br>Enterprise-focused automation toolkit developed to streamline daily IT support operations. Includes network troubleshooting, software deployment, printer installation, drive mapping, Windows Defender automation, and administrative tools for N2/N3 support teams.
-<br>🔗 Repository: https://github.com/juaogmarinho/it-support-automation-toolkit
-<br>**Technologies**
-<ul>
-  <li>PowerShell</li>
-  <li>Batch</li>
-  <li>Windows Server</li>
-  <li>ActiveDirectory</li>
-</ul>
+---
 
-🔧 Infraestructure as a Code Labs - Terraform
-<br>🔗 Repository: https://github.com/juaogmarinho/Iac-Terraform-Studies
-<br>**Technologies**
-<ul>
-  <li>Terraform</li>
-  <li>AWS</li>
-  <li>Azure</li>
-  <li>VS Code</li>
-</ul>
+## Experiência
 
-🔧 Automação PowerShell para Administração Windows
+| Período | Cargo | Empresa |
+|---------|-------|---------|
+| Nov 2025 – Atual | Analista de Suporte Sênior | Kyndryl |
+| Mar 2025 – Nov 2025 | Customer Support Analyst II | Solutis |
+| Jun 2024 – Mar 2025 | Supervisor de TI | ZeroUm Informática |
+| Mar 2023 – Mai 2024 | Supervisor de TI | Prefeitura Municipal de Sobradinho |
+| Jan 2020 – Fev 2023 | Técnico em Informática | Prefeitura Municipal de Sobradinho |
+
+Os detalhes de cada função estão no [currículo](https://drive.google.com/file/d/1w44TFLWvrJ7XssyBQC28V5iZ_isj-YnQ/view?usp=drive_link).
+
+---
+
+## Projetos em destaque
+
+### 🖨️ NOC Impressoras: Monitoramento com Zabbix, Grafana e Microsoft Teams
+
+Painel de monitoramento do parque de impressoras de uma operação com várias localidades. Reúne em um único dashboard do Grafana a **disponibilidade** e o **nível de toner** de cada equipamento, com **alertas automáticos no Microsoft Teams** e uma **tela de TV** para a equipe técnica.
+
+- **Problema:** a equipe só descobria impressora parada ou toner acabando quando o usuário abria um chamado.
+- **Solução:** acompanhamento em tempo real com ferramentas já existentes, trocando o atendimento reativo pelo proativo.
+- **Destaques:** visão geral com indicadores e ranking de toner, aba para TV de parede, cartões por impressora (monocromáticas e coloridas), filtros por localidade e alertas de impressora offline e toner baixo no Teams.
+- **Stack:** Zabbix · Grafana · Microsoft Teams (Workflows/Webhook) · Python
+
+<a href="https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams">
+  <img src="https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams/raw/main/docs/images/TV_Geral-DASH.png" alt="Aba TV do dashboard de monitoramento de impressoras" width="600">
+</a>
+
+🔗 [Ver repositório](https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams)
+
+### 🛠️ Toolkit de Automação para Suporte de TI
+
+Conjunto de scripts para o dia a dia de suporte N2/N3: diagnóstico de rede, instalação de impressoras, mapeamento de unidades, automação do Windows Defender e ferramentas administrativas.
+
+**Stack:** PowerShell · Batch · Windows Server · Active Directory
+
+🔗 [Ver repositório](https://github.com/juaogmarinho/it-support-automation-toolkit)
+
+### 🌐 Projetos de infraestrutura e redes (experiência profissional)
+
+- **Rede Wi-Fi corporativa e VPN:** planejamento e implantação com MikroTik e VPN segura via pfSense para acesso remoto de equipes externas.
+- **Modernização de conectividade:** coordenação da migração de enlaces via rádio para fibra óptica em unidades públicas.
+- **Wi-Fi em áreas públicas:** projeto e implementação em praças, com planejamento de cobertura e configuração dos equipamentos.
+- **Inventário e padronização de ativos:** identificação, registro e controle de mais de 100 equipamentos e softwares.
+
+---
+
+## 🚀 Estudando agora
+
+Terraform · PowerShell Automation · Ansible · Docker · n8n
+
+Laboratório em andamento: [Infraestrutura como Código com Terraform](https://github.com/juaogmarinho/Iac-Terraform-Studies) (AWS e Azure).
+
+---
+
+## 🎓 Formação e certificações
+
+**Formação**
+- Bacharelado em Ciência da Computação, Gran Faculdade (previsão: nov/2029)
+- Técnico em Eletrotécnica, Grau Técnico (2021–2023)
+- Ensino Médio Técnico em Informática, Cetep (2017–2019)
+
+**Certificações**
+- Kyndryl: Windows Server Active Directory 2022
+- Kyndryl: Docker and Containerization Basics e Working with Docker Images
+- Alura: Monitoramento com Prometheus, Grafana e Alertmanager
+- Cisco: Network Technician Career Path e Network Support and Security
+- FIAP: Gestão de Infraestrutura de TI
+- IBM: Information Technology Fundamentals
+- IFRS: Instalador e Reparador de Redes de Computadores
+
+**Idiomas:** Português (nativo) · Inglês (intermediário)
+
+---
+
+<details>
+<summary><b>🇺🇸 English summary</b></summary>
+
 <br>
-☁️ Estudos de Azure e Cloud
-<br>
-🌐 Infraestrutura de Redes com MikroTik e pfSense
-<br>
-📖 Documentações e Laboratórios de Active Directory
-<br>
-<div align="left">
 
-## 🎓 Certifications & Training
+Infrastructure and Networks Analyst with 6+ years of experience across the public sector and technology companies. Currently a Senior Support Analyst at Kyndryl, handling L2/L3 support, complex incident resolution and infrastructure migration and improvement projects.
 
-### ☁️ Cloud & Infrastructure
-- Cloud Fundamentals, Administration and Solution Architect (FIAP)
-- Infrastructure for Cloud Computing and Big Data (FIAP)
-- Docker and Containerization Basics (Kyndryl)
-- Working with Docker Images (Kyndryl)
+Hands-on with Windows Server, Active Directory, Linux, MikroTik and pfSense (VPN, Wi-Fi, firewalls), and monitoring with Zabbix and Grafana. Previously an IT Supervisor, leading support and infrastructure operations. Currently studying Terraform, Ansible, PowerShell automation and Docker.
 
-### 🖥️ Windows Infrastructure
-- Windows Server 2022 (Kyndryl)
+Highlights: radio-to-fiber link migration for public units, inventory and standardization of 100+ assets, and a printer monitoring NOC dashboard with Zabbix, Grafana and Microsoft Teams alerts.
 
-### 📊 Monitoring & Observability
-- Monitoring with Prometheus, Grafana and Alertmanager (Alura)
-- Zabbix Monitoring and Dashboard Development
+Languages: Portuguese (native), English (intermediate).
 
-### 🌐 Networking
-- MikroTik Fundamentals
-- Network Technician Career Path (Cisco)
-- Network Support and Security (Cisco)
+</details>
 
-### 🛡️ Cybersecurity
-- Cybersecurity Fundamentals (FIAP)
+---
 
-### 🔧 IT Support & Hardware
-- DWS - Service Desk Professional (Kyndryl)
-- IT Support Professional (Google)
-- IT Support Basics (Cisco)
-- Hardware and Upgrade Support (Cisco)
+## 📫 Contato
 
-<!-- Seção Currículo / Portifólio -->
-  <h3>Hiring? Take a look at my resume:</h3>
-  </a>
-  <a href="https://drive.google.com/file/d/1d3XUqMMK-HXvlnylE-IRBzWqm_7eu2cX/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juaomarinho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
-</div>
-
-<hr>
-
-###
-
-<!-- Banner GIF - Inosuke -->
-<img align="center" height="550" width="1050" src="https://media1.tenor.com/m/iLVXMqtoKLcAAAAd/gachiakuta-enjin.gif"  />
-
-###
-
-<hr>
+Vamos conversar pelo [LinkedIn](https://www.linkedin.com/in/juaomarinho/) ou por [e-mail](mailto:juaog.marinho@hotmail.com).
