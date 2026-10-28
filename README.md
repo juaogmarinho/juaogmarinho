@@ -61,7 +61,7 @@ Painel de monitoramento do parque de impressoras de uma operação com várias l
 - **Stack:** Zabbix · Grafana · Microsoft Teams (Workflows/Webhook) · Python
 
 <a href="https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams">
-  <img src="https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams/raw/main/docs/images/TV_Geral-DASH.png" alt="Aba TV do dashboard de monitoramento de impressoras" width="600">
+  <img src="https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams/blob/main/docs/images/Vis%C3%A3o_Geral-DASH.png" alt="Aba TV do dashboard de monitoramento de impressoras" width="600">
 </a>
 
 🔗 [Ver repositório](https://github.com/juaogmarinho/NOC-Impressoras-Monitoramento-com-Zabbix-Grafana-e-Microsoft-Teams)
